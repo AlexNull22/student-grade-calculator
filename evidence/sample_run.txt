@@ -1,0 +1,10 @@
+Student Grade Calculator
+Student name: Subject 1 score (0-100): Subject 2 score (0-100): Subject 3 score (0-100): 
+Grade Report
+Student: Alex
+Subject 1: 80.00
+Subject 2: 70.00
+Subject 3: 90.00
+Total: 240.00
+Average: 80.00
+Result: PASS
