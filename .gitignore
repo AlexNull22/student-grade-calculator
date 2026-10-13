@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+/delivery.zip
+/项目说明.md
+/Upwork 项目.url
+/evidence/upwork_job.png
